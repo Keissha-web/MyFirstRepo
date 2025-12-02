@@ -1,2 +1,3 @@
 #!binbash
-i learnt how to use git bash and how to clone my first repo. i also leart how to use pull request to collaborate with other github users. i learnt how to request using forks as well.
+what i have learned from this course, I learnt how to use git bash and how to clone my first repo. I also leart how to use pull request to collaborate with other github users. I learnt how to request using forks as well.
+
