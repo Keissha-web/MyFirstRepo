@@ -1,1 +1,2 @@
-i learnt how to use git bash and how to cone my first repo
+#!binbash
+i learnt how to use git bash and how to clone my first repo. i also leart how to use pull request to collaborate with other github users. i learnt how to request using forks as well.
